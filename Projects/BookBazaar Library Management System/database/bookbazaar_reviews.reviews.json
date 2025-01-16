@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "6786b382d260e37f354acfca"
+  },
+  "book_id": 1,
+  "user_id": 1,
+  "rating": 5,
+  "comment": "Great book!",
+  "date": {
+    "$date": "2025-01-14T18:57:06.270Z"
+  }
+}]
